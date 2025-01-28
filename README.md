@@ -13,10 +13,11 @@ This project is a Customer Salary Prediction model deployed using Streamlit. The
 - Easy deployment and execution
 
 ## Demo
-Access the deployed app here: [Customer Churn Prediction](https://customer-churn-classifier-with-app-deployment-9etrrrg4ch7rvfz9.streamlit.app/).
+Access the deployed app here: [Customer Salary Prediction](https://customer-salary-prediction-with-app-deployment-gappdfeztwfhpkf.streamlit.app/).
 
 ## **Below is a demonstration of the app's interface:**
-![image](https://github.com/user-attachments/assets/17484219-f311-4e04-95e4-cfbe8e92ef4a)
+![image](https://github.com/user-attachments/assets/4666a98c-81f3-40ac-a6a2-e86cdabead99)
+
 
 📂 Repository Structure
 
