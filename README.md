@@ -37,7 +37,7 @@ Access the deployed app here: [Customer Salary Prediction](https://customer-sala
 📥 Installation & Setup
 1. Clone the repository
    ``` bash
-    git clone https://github.com/your-username/customer-salary-prediction-with-streamlit-deployment.git
+    git clone https://github.com/aljebraschool/customer-salary-prediction-with-streamlit-deployment.git
     cd customer-salary-prediction-with-streamlit-deployment
    ```
 2. Create a virtual environment (optional but recommended)
